@@ -1,0 +1,4 @@
+1&Uzkandziai
+2&Sriubos
+3&KarstiPatiekalai
+4&Gerimai

@@ -1,0 +1,9 @@
+c:\users\arnas\documents\visual studio 2015\Projects\Restoranas\Restoranas\bin\Debug\Restoranas.exe.config
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\bin\Debug\Restoranas.exe
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\bin\Debug\Restoranas.pdb
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\obj\Debug\Restoranas.csprojResolveAssemblyReference.cache
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\obj\Debug\Restoranas.Form1.resources
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\obj\Debug\Restoranas.Properties.Resources.resources
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\obj\Debug\Restoranas.csproj.GenerateResource.Cache
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\obj\Debug\Restoranas.exe
+C:\Users\Arnas\Documents\Visual Studio 2015\Projects\Restoranas\Restoranas\obj\Debug\Restoranas.pdb

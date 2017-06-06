@@ -1,0 +1,8 @@
+1&1&Kepta duona&2,21&Tamsi aliejuje kepta duona
+2&1&Sumustinis&1,51&Sumustinis su pasirinktais ingredientais
+3&2&Kopustu&1,82&Sriuba su kopustais
+4&2&Zirniu&1,52&Sriuba su zirniais
+5&3&Mesainis su suriu&3,29&Jautienos mesainis su suriu
+6&3&Kepsnys&4,28&Vistienos arba jautienos kepsnys su darzovemis
+7&4&Vanduo&0,65&Stikline vandens su metomis ir citrina
+8&4&Sultys&0,85&Stikline pasirinktu sulciu
